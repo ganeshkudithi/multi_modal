@@ -1,1 +1,4 @@
-
+BATCH_SIZE = 4
+LR = 1e-4
+EPOCHS = 10
+LAMBDA = 1.0
