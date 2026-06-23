@@ -10,5 +10,6 @@ command to run model imange generation and validation -- ```python3 matclip_gene
 
 the observation --
 
-```initial model from the directory is the waam_hybrid model and the diffusion model and now we have downloaded the mistrial and diffusion model to our directory and using that path
+```
+initial model from the directory is the waam_hybrid model and the diffusion model and now we have downloaded the mistrial and diffusion model to our directory and using that path
 ```
