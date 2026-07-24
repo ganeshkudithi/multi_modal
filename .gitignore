@@ -1,0 +1,41 @@
+# Virtual environments
+matclip_env/
+venv/
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Data
+data/
+
+# Images
+images/
+inference_generated_images/
+inference_outputs/
+
+# Models and checkpoints
+models/
+weights/
+checkpoints*/
+*.ckpt
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Logs
+logs/
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
