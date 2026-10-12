@@ -14,14 +14,15 @@
 
 
 
-No.	Reference Image Filename	Inference Prompt
-1	4bdb04be46ac5494_fig9_c_t1_256.png	Micrograph of Inconel 718 produced by LPBF in the as-built condition, showing overlapping melt pool boundaries and a fine cellular solidification structure.
-2	e4b34f1a7ed5ae45_fig6_05_t5_256.png	SEM micrograph of Inconel 625 produced by Direct Laser Deposition, showing elongated columnar grains, branching dendrites, and distinct deposition-layer bands.
-3	0fe4990388df65cd_fig10_10_a_vlm_t1_256.png	Micrograph of Inconel 625 produced by WAAM in the as-fabricated condition, showing elongated columnar grains aligned with the thermal gradient and visible dendritic growth.
-4	2a13776e772e075a_fig9_08_t0_256.png	SEM micrograph of Inconel 718 produced by Laser DED, showing a dense solidification structure with dendritic arms, fine cellular features, and distinct grain boundaries.
-5	11395e0261b7ab51_fig2_a_t1_256.png	EBSD microstructure map of as-built Inconel 625 produced by LPBF, showing elongated columnar grains, distinct grain boundaries, and crystallographic orientation variations.
-6	11395e0261b7ab51_fig2_b_t0_256.png	EBSD orientation map of stress-relieved Inconel 625 produced by LPBF, showing distinct crystallographic grains, retained elongated grain morphology, and orientation-dependent coloring.
-7	5c2dcaf6fc71729b_fig6_06_f_vlm_t1_256.png	SEM micrograph of as-printed Inconel 625 produced by LPBF, showing fine cellular solidification features, clearly defined grain boundaries, and a mixture of columnar and equiaxed grains.
-8	27ed1e93d981f971_fig3_h_t1_256.png	SEM micrograph of a WC-reinforced Inconel 718 composite produced by LPBF and subjected to homogenization and double aging, showing bright carbide particles dispersed in a metallic matrix.
-9	ffcef6f5d6509c65_fig6_05_d_vlm_t1_256.png	Micrograph of Inconel 939 produced by LPBF and heat-treated at 1300 °C for 1 hour, showing a metallic matrix with irregular dark pores and regions of severe porosity.
-10	e70e3dc57444f664_fig4_a_t3_256.png	SEM micrograph of Inconel 718 produced by WAAM in the as-deposited condition, showing bright, irregular oxide inclusions distributed across a darker metallic matrix.
+| No. | Reference Image Filename | Inference Prompt |
+|---:|---|---|
+| 1 | `4bdb04be46ac5494_fig9_c_t1_256.png` | Micrograph of Inconel 718 produced by LPBF in the as-built condition, showing overlapping melt pool boundaries and a fine cellular solidification structure. |
+| 2 | `e4b34f1a7ed5ae45_fig6_05_t5_256.png` | SEM micrograph of Inconel 625 produced by Direct Laser Deposition, showing elongated columnar grains, branching dendrites, and distinct deposition-layer bands. |
+| 3 | `0fe4990388df65cd_fig10_10_a_vlm_t1_256.png` | Micrograph of Inconel 625 produced by WAAM in the as-fabricated condition, showing elongated columnar grains aligned with the thermal gradient and visible dendritic growth. |
+| 4 | `2a13776e772e075a_fig9_08_t0_256.png` | SEM micrograph of Inconel 718 produced by Laser DED, showing a dense solidification structure with dendritic arms, fine cellular features, and distinct grain boundaries. |
+| 5 | `11395e0261b7ab51_fig2_a_t1_256.png` | EBSD microstructure map of as-built Inconel 625 produced by LPBF, showing elongated columnar grains, distinct grain boundaries, and crystallographic orientation variations. |
+| 6 | `11395e0261b7ab51_fig2_b_t0_256.png` | EBSD orientation map of stress-relieved Inconel 625 produced by LPBF, showing distinct crystallographic grains, retained elongated grain morphology, and orientation-dependent coloring. |
+| 7 | `5c2dcaf6fc71729b_fig6_06_f_vlm_t1_256.png` | SEM micrograph of as-printed Inconel 625 produced by LPBF, showing fine cellular solidification features, clearly defined grain boundaries, and a mixture of columnar and equiaxed grains. |
+| 8 | `27ed1e93d981f971_fig3_h_t1_256.png` | SEM micrograph of a WC-reinforced Inconel 718 composite produced by LPBF and subjected to homogenization and double aging, showing bright carbide particles dispersed in a metallic matrix. |
+| 9 | `ffcef6f5d6509c65_fig6_05_d_vlm_t1_256.png` | Micrograph of Inconel 939 produced by LPBF and heat-treated at 1300 °C for 1 hour, showing a metallic matrix with irregular dark pores and regions of severe porosity. |
+| 10 | `e70e3dc57444f664_fig4_a_t3_256.png` | SEM micrograph of Inconel 718 produced by WAAM in the as-deposited condition, showing bright, irregular oxide inclusions distributed across a darker metallic matrix. |
